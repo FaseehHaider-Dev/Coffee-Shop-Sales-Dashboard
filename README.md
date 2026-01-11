@@ -114,7 +114,7 @@ Visualizes sales intensity across days of the week and hours of the day, helping
 ---
 
 ## 5. Dashboard Preview
-![image alt]
+![image alt](https://github.com/FaseehHaider-Dev/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales.jpg)
 ---
 
 ## 6. How to Use
