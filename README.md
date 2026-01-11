@@ -11,8 +11,9 @@
    * [Goal of the Dashboard](#goal-of-the-dashboard)
    * [Walkthrough of Key Visuals](#walkthrough-of-key-visuals)
    * [Business Impact & Insights](#business-impact--insights)
-5. [How to Use](#5-how-to-use)
-6. [Author](#6-author)
+5. [Dashboard Preview](#5-dashboard-preview)  
+6. [How to Use](#6-how-to-use)
+7. [Author](#7-author)
 
 ---
 
@@ -112,7 +113,12 @@ Visualizes sales intensity across days of the week and hours of the day, helping
 
 ---
 
-## 5. How to Use
+## 5. Dashboard Preview
+![image alt](https://github.com/FaseehHaider-Dev/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Shop%20Sales.jpg?raw=true)
+
+---
+
+## 6. How to Use
 
 * Download the `.pbix` file from the repository
 * Open the file in **Power BI Desktop**
@@ -120,7 +126,7 @@ Visualizes sales intensity across days of the week and hours of the day, helping
 
 ---
 
-## 6. Author
+## 7. Author
 
 **Faseeh Haider**
 Power BI Developer | Business Intelligence Analyst  
