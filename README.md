@@ -131,7 +131,7 @@ Visualizes sales intensity across days of the week and hours of the day, helping
 Power BI Developer | Business Intelligence Analyst  
 
 📧 Email: [Faseehhaider690@gmail.com](mailto:Faseehhaider690@gmail.com)  
-💼 LinkedIn: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)  
+💼 LinkedIn: [https://www.linkedin.com/in/your-profile](http://www.linkedin.com/in/faseehhaider-dev)  
 🌐 GitHub: [https://github.com/FaseehHaider-Dev](https://github.com/FaseehHaider-Dev)  
 
 ---
